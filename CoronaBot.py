@@ -71,7 +71,7 @@ def staa():
                     global_deaths + '</code>' + '\n' + 'සුවය ලැබූ සංඛ්‍යාව = ' '<code>'  +
                     global_recovered + '</code>' + '\n' + '\n' + '\n' +
                     'සියලු තොරතුරු රජයේ සහ පිලිගත් මුලාශ්‍ර මගිනි' + '\n' +
-                    '~ @ImTheekshana ~')
+                    '~ @Theekshana_Official ~')
     return textt
 
 
